@@ -8,3 +8,4 @@
 * [Court Counter](https://github.com/Jitendrap1702/CourtCounter)
 * [Multiplication Table](https://github.com/Jitendrap1702/MultiplicationTable)
 * [Scrolling Text](https://github.com/Jitendrap1702/ScrollingText)
+* [Two Activities](https://github.com/Jitendrap1702/TwoActivities)
