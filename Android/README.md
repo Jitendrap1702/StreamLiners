@@ -10,3 +10,4 @@
 * [Scrolling Text](https://github.com/Jitendrap1702/ScrollingText)
 * [Two Activities](https://github.com/Jitendrap1702/TwoActivities)
 * [Shared Preferences](https://github.com/Jitendrap1702/SharedPreferences)
+* [Recycler View](https://github.com/Jitendrap1702/RecyclerView)
