@@ -14,3 +14,4 @@
 * [Recycler Cart](https://github.com/Jitendrap1702/RecyclerCart)
 * [Excel Cols](https://github.com/Jitendrap1702/ExcelCols)
 * [Menu Updater](https://github.com/Jitendrap1702/MenuUpdater)
+* [EUser](https://github.com/Jitendrap1702/EUser)
